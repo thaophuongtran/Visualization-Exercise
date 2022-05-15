@@ -1,4 +1,3 @@
-Homework 03
 ================
 Thao Tran
 
