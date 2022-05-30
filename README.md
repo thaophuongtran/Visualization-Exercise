@@ -1,6 +1,6 @@
-Thao Tran
+Visualization Exercises Animation and Visualizing Spatial-Data
 ================
-
+Thao Tran
 
 ``` r
 library(tidyverse)
